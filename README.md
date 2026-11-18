@@ -1,19 +1,21 @@
-# AGY-ZH (Antigravity Native Chinese)
+# 🌐 AGY-ZH (Antigravity 中文汉化+超炫 UI 插件)
 
-🌐✨ **Antigravity Native Chinese + Gemini UI (qixian-agy-zh)**
+**小白必看！Antigravity 界面看不懂？想让你的 AGY 变得像电影一样炫酷？这一款插件就够了！**
 
-### 核心功能 (Core Features)
-*   **100% 原生无损汉化**: 基于动态注入方案，0 字节触碰官方原版 `Antigravity.app`，保留所有苹果签名与权限。
-*   **Gemini 视觉引擎**: 内置 WebGL 静谧微息动效、工作态星芒律动与 Agent 步骤流视觉界面。
-*   **纯血 arm64 启动器**: 专为 Apple Silicon 设计的 native 启动器，彻底杜绝 Rosetta 环境提示。
-*   **即时语言切换**: 支持 `Command + Shift + L` 0ms 秒切中/英文界面。
-*   **智能动效工作台**: `Command + Shift + G` 呼出 Gemini 视觉预设切换。
+---
 
-### 快速安装与更新 (Installation)
-1. 克隆本项目至本地：`git clone https://github.com/qixian771-spec/agy-zh.git`
-2. 执行安装命令：`bash install_mac.command`
-3. 使用时请通过启动台点击 **"Antigravity 中文版"** 图标（带专属中文角标）启动。
+### ✨ 为什么要装它？
+*   **一键全中文**: 再也不用看满屏英文！安装后瞬间全中文界面，翻译覆盖 100%。
+*   **超炫 Gemini UI**: 独家定制的静谧微息动效、工作态星芒律动，让你的 AGY 看起来就像未来科技产品。
+*   **秒切中英**: 只要按 **Command + Shift + L**，中文英文随你切换，毫无延迟！
+*   **一键切 UI 动效**: 按 **Command + Shift + G**，瞬间切换 3 档呼吸灯效，怎么炫酷怎么来。
+*   **原生安全**: 0 字节修改原版软件，绝对安全，不影响官方功能。
 
-### 维护与开发 (Development)
-*   本仓库包含完整的汉化字典 (`core/zh-dict.json`) 与 UI 挂载逻辑 (`core/gemini-ui.js`)。
-*   提交修改后，请运行 `bash install_mac.command` 刷新本地生效。
+### 🚀 怎么安装？
+1. 下载本项目到本地。
+2. 打开 Mac 终端，执行：`bash install_mac.command`
+3. 安装完成后，在应用程序里认准 **"Antigravity 中文版"** (图标带中文小胶囊角标)，点击它启动即可！
+
+---
+
+**懂了吗？装好它，你的 AGY 直接从“原始版”升级成“汉化炫酷满血版”！**
