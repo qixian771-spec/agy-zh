@@ -1,0 +1,12 @@
+{
+  "command": "sh",
+  "args": [
+    "../../scripts/run_node.sh",
+    "../../core/cdp-daemon.mjs",
+    "--sidecar"
+  ],
+  "restart_policy": "always",
+  "display_name": "Antigravity Native Chinese Guard",
+  "description": "Event-driven zero-CPU fallback localization guard for Antigravity Desktop App UI.",
+  "has_web_ui": false
+}

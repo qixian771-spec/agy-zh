@@ -1,0 +1,33 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "qixian-agy-zh",
+  "displayName": "Antigravity Native Chinese + Gemini UI (原生无损汉化 · 双子流光界面)",
+  "description": "Zero-intrusion dual-engine Simplified Chinese localization + Google Gemini Material 3 Expressive & WebGL fluid aurora UI for Antigravity Desktop App. Preserves Apple Developer ID signature & TCC permissions, supports 0ms Cmd+Shift+L language toggle, Cmd+Shift+G Gemini UI Studio, Apple Silicon arm64 native launcher, and OTA hot-updates.",
+  "version": "2.3.0",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Check my Antigravity Chinese localization and Gemini UI theme status",
+    "Scan my installed Antigravity.app for any newly added untranslated UI strings",
+    "Add a custom Chinese translation override to my Antigravity localization dictionary"
+  ],
+  "author": {
+    "name": "QIXIAN",
+    "url": "https://github.com/qixian772"
+  },
+  "homepage": "https://github.com/qixian772/agy-zh",
+  "repository": "https://github.com/qixian772/agy-zh",
+  "license": "MIT",
+  "keywords": [
+    "chinese",
+    "zh-cn",
+    "i18n",
+    "localization",
+    "gemini-ui",
+    "theme",
+    "webgl",
+    "macos",
+    "apple-silicon",
+    "windows",
+    "qixian"
+  ]
+}
